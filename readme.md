@@ -1,0 +1,2 @@
+# link downloads:
+* <a href=https://github.com/ZyCromerZ/Clang/releases/download/14.0.6-20250704-release/Clang-14.0.6-20250704.tar.gz>Clang-14.0.6-20250704.tar.gz</a>
